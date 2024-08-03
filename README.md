@@ -11,7 +11,7 @@ Untuk mode Part 2
 * Folder akan muncul jika sudah menjalankan batch tersebut, nama folder tersebut yaitu "Locker"
 
 
-
-BLOG WEBSITE OFFICIAL : https://andrew-exe.blogspot.com/
-INSTAGRAM : https://www.instagram.com/andrew.sianturi/
-Info traktiran KOPI : https://saweria.co/andrewsianturi
+INFO LEBIH LANJUT :
+* BLOG WEBSITE OFFICIAL : https://andrew-exe.blogspot.com/
+* INSTAGRAM : https://www.instagram.com/andrew.sianturi/
+* Info traktiran KOPI : https://saweria.co/andrewsianturi
